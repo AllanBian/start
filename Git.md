@@ -6,6 +6,10 @@
 #####克隆一个git代码库
 <pre><code>$ git clone xxx.git</code></pre>
 
+###配置
+#####显示git配置
+<pre><code>$ git config --list</code></pre>
+
 ###添加、删除文件
 #####添加文件
 <pre><code>$ git add [file1] [file2] #添加多个文件，放入暂存</code></pre>
