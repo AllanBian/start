@@ -1,3 +1,5 @@
+http://ndpsoftware.com/git-cheatsheet.html
+
 ###初始化
 #####新建一个git代码库
 <pre><code>$ git init</code></pre>
