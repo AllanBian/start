@@ -7,7 +7,10 @@
 <pre><code>$ git clone xxx.git</code></pre>
 
 ###添加、删除文件
-#####添加文件到暂存区
-<pre><code>$ git add [file1] [file2] #添加多个文件</code></pre>
-<pre><code>$ git add [dir] </code> #添加指定目录</pre>
-<pre><code>$ git add . #添加当前目录所有文件</code></pre>
+#####添加文件
+<pre><code>$ git add [file1] [file2] #添加多个文件，放入暂存</code></pre>
+<pre><code>$ git add [dir] </code> #添加指定目录，放入暂存</pre>
+<pre><code>$ git add . #添加当前目录所有文件，放入暂存</code></pre>
+
+#####删除文件
+<pre><code>git rm [file1] [file2] #删除文件，放入暂存</code></pre>
