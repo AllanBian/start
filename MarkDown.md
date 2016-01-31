@@ -256,9 +256,13 @@ __强调__
 #####链接图片的语法同样允许两种样式:行内式和参考式(主要的区别是开头有个感叹号)
 
 示例如下:
-![github](https://avatars2.githubusercontent.com/u/973357?v=3&s=460 "AllanBian")
+![AllanBian](https://avatars2.githubusercontent.com/u/973357?v=3&s=460 "AllanBian")
+![allan's photo][photo]
+[photo]:https://avatars2.githubusercontent.com/u/973357?v=3&s=40 "allan's photo"
 
 代码如下:
 <pre><code>
-![github](https://avatars2.githubusercontent.com/u/973357?v=3&s=460 "AllanBian")	
+![AllanBian](https://avatars2.githubusercontent.com/u/973357?v=3&s=460 "AllanBian")	
+![allan's photo][photo]
+[photo]:https://avatars2.githubusercontent.com/u/973357?v=3&s=40 "allan's photo"
 </code></pre>
