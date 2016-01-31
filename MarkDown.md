@@ -175,7 +175,9 @@ This is [github][g_link] link.
 
 代码如下:
 <pre><code>
-\[github\]\[\]
 
-\[github\]: https://github.com	
+[github][]
+
+[github]:https://github.com
+	
 </code></pre>
