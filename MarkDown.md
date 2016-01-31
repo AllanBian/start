@@ -156,11 +156,13 @@ This is [github](https://github.com "github") link.
 在链接文字的方括号后面接上一个方括号作为标记，然后在文件任意处定义标记的链接内容，可以在最后面用单引号、双引号或括号来定义标题
 示例如下:
 This is [github][g_link] link.
+
 [g_link]: https://github.com "github"
 
 代码如下:
 <pre><code>
 This is [github][g_link] link.
+
 [g_link]: https://github.com "github"
 </code></pre>
 
@@ -168,10 +170,12 @@ This is [github][g_link] link.
 让你可以省略指定链接标记,这种情况下会视为等同于链接文字，要用隐式链接标记只要在链接文字后面加一个空的方括号
 示例如下:
 [github][]
+
 [github]:https://github.com
 
 代码如下:
 <pre><code>
 [github][]
-\[github\]: https://github.com	
+
+[github]: https://github.com	
 </code></pre>
