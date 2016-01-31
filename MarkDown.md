@@ -140,3 +140,13 @@
 ***	
 </code></pre>
 *****
+
+###区段元素
+#####行内式链接，只要在方括号后面紧接圆括号并插入网址链接即可，如果要加title，只要在网址后面用双引号把title文字包起来即可
+示例如下:
+This is [github](https://github.com "github") link。
+
+代码如下:
+<pre><code>
+	This is [github](https://github.com "github") link。	
+</code></pre>
