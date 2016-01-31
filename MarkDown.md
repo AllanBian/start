@@ -250,3 +250,15 @@ __强调__
 
 让我们来&lt;code&gt;\`测试一下\`&lt;/code&gt;咯!
 </code></pre>
+*****
+
+###图片
+#####链接图片的语法同样允许两种样式:行内式和参考式
+
+示例如下:
+![github](https://avatars2.githubusercontent.com/u/973357?v=3&s=460)
+
+代码如下:
+<pre><code>
+![github](https://avatars2.githubusercontent.com/u/973357?v=3&s=460)	
+</code></pre>
