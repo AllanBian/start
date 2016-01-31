@@ -1,4 +1,5 @@
-http://ndpsoftware.com/git-cheatsheet.html
+###git指令关系图
+点击此处查看[git指令关系图](http://ndpsoftware.com/git-cheatsheet.html)
 
 ###初始化
 #####新建一个git代码库
@@ -9,6 +10,7 @@ http://ndpsoftware.com/git-cheatsheet.html
 <pre><code>$ git clone xxx.git</code></pre>
 
 ###配置
+#####配置文件
 #####显示git配置
 <pre><code>$ git config --list</code></pre>
 
