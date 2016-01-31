@@ -262,7 +262,7 @@ __强调__
 
 代码如下:
 <pre><code>
-![AllanBian](https://avatars2.githubusercontent.com/u/973357?v=3&s=460 "AllanBian")	
-![allan's photo][photo]
-[photo]:https://avatars2.githubusercontent.com/u/973357?v=3&s=40 "allan's photo"
+<p>![AllanBian](https://avatars2.githubusercontent.com/u/973357?v=3&s=460 "AllanBian")	</p>
+<p>![allan's photo][photo]</p>
+<p>[photo]:https://avatars2.githubusercontent.com/u/973357?v=3&s=40 "allan's photo"</p>
 </code></pre>
