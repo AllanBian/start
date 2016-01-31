@@ -149,21 +149,19 @@ This is [github](https://github.com "github") link.
 
 代码如下:
 <pre><code>
-	This is [github](https://github.com "github") link.
+<p>This is [github](https://github.com "github") link.</p>
 </code></pre>
 
 #####参考式链接
 在链接文字的方括号后面接上一个方括号作为标记，然后在文件任意处定义标记的链接内容，可以在最后面用单引号、双引号或括号来定义标题
 示例如下:
 This is [github][g_link] link.
-
 [g_link]: https://github.com "github"
 
 代码如下:
 <pre><code>
-This is [github][g_link] link.
-
-[g_link]: https://github.com "github"
+<p>This is [github][g_link] link.</p>
+<p>[g_link]: https://github.com "github"</p>
 </code></pre>
 
 #####隐式链接标记
