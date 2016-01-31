@@ -248,5 +248,5 @@ __强调__
 <pre><code>
 让我们来`` `测试一下` ``咯!
 
-让我们来&lt;code&gt; \`测试一下\` &lt;/code&gt;咯!
+让我们来&lt;code&gt; `` ` ``测试一下`` ` `` &lt;/code&gt;咯!
 </code></pre>
