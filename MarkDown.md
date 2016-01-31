@@ -253,12 +253,12 @@ __强调__
 *****
 
 ###图片
-#####链接图片的语法同样允许两种样式:行内式和参考式
+#####链接图片的语法同样允许两种样式:行内式和参考式(主要的区别是开头有个感叹号)
 
 示例如下:
-![github](https://avatars2.githubusercontent.com/u/973357?v=3&s=460)
+![github](https://avatars2.githubusercontent.com/u/973357?v=3&s=460 "AllanBian")
 
 代码如下:
 <pre><code>
-![github](https://avatars2.githubusercontent.com/u/973357?v=3&s=460)	
+![github](https://avatars2.githubusercontent.com/u/973357?v=3&s=460 "AllanBian")	
 </code></pre>
