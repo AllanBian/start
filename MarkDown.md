@@ -170,14 +170,13 @@ This is [github][g_link] link.
 让你可以省略指定链接标记,这种情况下会视为等同于链接文字，要用隐式链接标记只要在链接文字后面加一个空的方括号
 示例如下:
 [github][]
-
 [github]:https://github.com
 
 代码如下:
 <pre><code>
-
+‘
 [github][]
 
 [github]:https://github.com
-	
+‘
 </code></pre>
