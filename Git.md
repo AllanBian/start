@@ -3,6 +3,7 @@
 
 *****
 
+
 ###初始化
 #####新建一个git代码库
 <pre><code>$ git init</code></pre>
@@ -13,12 +14,20 @@
 
 *****
 
+
 ###配置
 #####配置文件
+git的配置文件为.gitconfig，可以在用户目录下全局配置，也可以在项目目录下单独配置
 #####显示git配置
 <pre><code>$ git config --list</code></pre>
+#####编辑git配置文件
+<pre><code>$ git config -e --global</code></pre>
+#####设置用户信息
+<pre><code>$ git config --global user.name "name"</code></pre>
+<pre><code>$ git config --global user.email "email"</code></pre>
 
 *****
+
 
 ###添加、删除文件
 #####添加文件
@@ -29,3 +38,11 @@
 <pre><code>$ git rm [file1] [file2] #删除文件，放入暂存</code></pre>
 #####停止追踪指定文件
 <pre><code>$ git rm --cached [file] #文件依旧会保存在工作区</code></pre>
+#####修改文件名
+<pre><code>$ git mv file file-renamed</code></pre>
+
+
+
+
+
+
