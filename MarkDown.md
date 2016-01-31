@@ -276,5 +276,5 @@ __强调__
 
 代码如下:
 <pre><code>
-<p><https://github.com></p>
+<p>&lt;https://github.com&gt;</p>
 </code></pre>
