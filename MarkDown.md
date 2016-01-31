@@ -266,3 +266,15 @@ __强调__
 <p>![allan's photo][photo]</p>
 <p>[photo]:https://avatars2.githubusercontent.com/u/973357?v=3&s=40 "allan's photo"</p>
 </code></pre>
+*****
+
+###其他
+#####自动链接，自动将一般网址转换成链接
+
+示例如下:
+<https://github.com>
+
+代码如下:
+<pre><code>
+<p><https://github.com></p>
+</code></pre>
