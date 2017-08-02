@@ -124,8 +124,8 @@
 	&lt;pre&gt;
 		&lt;code&gt;
 			这里是放置代码的区域
-		&lt;/pre&gt;
-	&lt;/code&gt;
+		&lt;/code&gt;
+	&lt;/pre&gt;
 </code></pre>
 *****
 
