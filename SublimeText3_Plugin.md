@@ -22,7 +22,7 @@
 ![https://github.com/SublimeText-Markdown/MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing "Markdown Editing")
 
 ### Package Control
-> 包管理工具
+> 插件管理工具
 ![https://packagecontrol.io/](https://packagecontrol.io/ "Package Control")
 
 ### Side​Bar​Enhancements
