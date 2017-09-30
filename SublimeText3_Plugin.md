@@ -1,5 +1,6 @@
 # Sublime Text3 常用插件
-所有插件都可以在Package Control里面找到![Package Control](https://packagecontrol.io/ "Package Control")
+所有插件都可以在Package Control里面找到
+![Package Control](https://packagecontrol.io/ "Package Control")
 
 ### AutoFileName
 > 文件路径提示功能插件
