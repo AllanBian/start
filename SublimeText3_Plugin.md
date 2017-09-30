@@ -2,3 +2,4 @@
 
 ###AutoFileName
 > 文件路径提示功能插件
+![AutoFileName](https://github.com/BoundInCode/AutoFileName "AutoFileName")
