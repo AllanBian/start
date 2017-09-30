@@ -60,8 +60,3 @@
 ### Git
 > Git插件
 ![https://github.com/kemayo/sublime-text-git](https://github.com/kemayo/sublime-text-git "Git")
-
-
-
-
-
