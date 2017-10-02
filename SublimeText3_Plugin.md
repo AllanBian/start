@@ -69,3 +69,10 @@
 ### Color Highlighter
 > 颜色提示插件
 ![https://sublime.wbond.net/packages/Color%20Highlighter](https://sublime.wbond.net/packages/Color%20Highlighter "Color Highlighter")
+
+### DashDoc
+> api查阅插件
+![https://github.com/farcaller/DashDoc](https://github.com/farcaller/DashDoc "DashDoc")
+
+
+
