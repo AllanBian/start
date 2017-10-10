@@ -61,3 +61,18 @@
 ### Git
 > Git插件
 ![https://github.com/kemayo/sublime-text-git](https://github.com/kemayo/sublime-text-git "Git")
+
+### 1337 Color Scheme
+> 配色方案
+![https://github.com/MarkMichos/1337-Scheme](https://github.com/MarkMichos/1337-Scheme "1337 Color Scheme")
+
+### Color Highlighter
+> 颜色提示插件
+![https://sublime.wbond.net/packages/Color%20Highlighter](https://sublime.wbond.net/packages/Color%20Highlighter "Color Highlighter")
+
+### DashDoc
+> api查阅插件
+![https://github.com/farcaller/DashDoc](https://github.com/farcaller/DashDoc "DashDoc")
+
+
+
