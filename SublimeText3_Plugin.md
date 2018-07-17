@@ -79,9 +79,12 @@
 ![https://packagecontrol.io/packages/Translate-CN](https://packagecontrol.io/packages/Translate-CN "Translate-CN")
 
 ### ESLint-Formatter
-> eslint语法格式化
+> ESLint语法格式化
 ![https://packagecontrol.io/packages/ESLint-Formatter](https://packagecontrol.io/packages/ESLint-Formatter "ESLint-Formatter")
 
+### ESLint
+> ESLint语法校验
+![https://packagecontrol.io/packages/ESLint](https://packagecontrol.io/packages/ESLint "ESLint")
 
 
 
