@@ -74,5 +74,14 @@
 > api查阅插件
 ![https://github.com/farcaller/DashDoc](https://github.com/farcaller/DashDoc "DashDoc")
 
+### Translate-CN
+> 翻译工具
+![https://packagecontrol.io/packages/Translate-CN](https://packagecontrol.io/packages/Translate-CN "Translate-CN")
+
+### ESLint-Formatter
+> eslint语法格式化
+![https://packagecontrol.io/packages/ESLint-Formatter](https://packagecontrol.io/packages/ESLint-Formatter "ESLint-Formatter")
+
+
 
 
