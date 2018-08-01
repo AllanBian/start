@@ -87,4 +87,4 @@
 ![https://packagecontrol.io/packages/ESLint](https://packagecontrol.io/packages/ESLint "ESLint")
 
 
-
+![图一](https://github.com/AllanBian/start/blob/master/SublimeText3_Plugin.png "pageage 截图")
