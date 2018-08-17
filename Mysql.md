@@ -7,7 +7,7 @@
 
 ```SQL
 SELECT lastname, firstname, jobtitle FROM employees;
-<!--
+
 // 复杂的SELECT语句
 SELECT
     column_1, column_2, ...
@@ -20,7 +20,6 @@ GROUP BY column_1
 HAVING group_conditions
 ORDER BY column_1
 LIMIT offset, length;
- -->
 ```
 
 - SELECT DISTINCT 语句
@@ -181,7 +180,7 @@ INNER JOIN
     productlines t2
 ON
     t1.productline = t2.productline;
-等价
+// 等价于
 SELECT
     productCode, productName, textDescription
 FROM
@@ -262,7 +261,12 @@ ORDER BY manager;
 - GROUP BY 子句
 
 ```SQL
-SELECT status, COUNT(*) AS total_number FROM orders GROUP BY status;
+SELECT
+    status, COUNT(*) AS total_number
+FROM
+    orders
+GROUP BY
+    status;
 ```
 
 - HAVING 子句
