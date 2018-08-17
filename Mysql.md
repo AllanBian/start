@@ -6,7 +6,7 @@
 ```
 SELECT lastname, firstname, jobtitle FROM employees;
 或者
-SELECT 
+SELECT
     column_1, column_2, ...
 FROM
     table_1
