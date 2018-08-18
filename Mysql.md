@@ -285,6 +285,21 @@ HAVING total > 55000;
 
 ### Mysql子查询,派生表,通用表达式
 - Mysql子查询
+
+```SQL
+SELECT 
+    lastName, firstName
+FROM
+    employees
+WHERE
+    officeCode IN (SELECT 
+            officeCode
+        FROM
+            offices
+        WHERE
+            country = 'USA');
+```
+
 - Mysql派生表
 - Mysql通用表达式
 - 递归CTE遍历分层数据
